@@ -20,21 +20,21 @@ import RefInput from './components/Refhook/RefInput';
 function App() {
   return (
     <div className="App">
-     {/* <HttpReq /> */}
-     {/* <PostDataHttp/> */}
-     {/* <ClassCounter /> */}
-     {/* <HookCounter /> */}
-     {/* <HookArray /> */}
-     {/* <ContextCompA/> */}
-     {/* <ReducerCounter /> */}
-     {/* <ReducerCounterPro/> */}
-     {/* <CallbackHook /> */}
-     {/* <MemoCounter /> */}
-     {/* <RefInput /> */}
-     {/* <ClassTimer /> */}
-     {/* <FunctionalTimer /> */}
-     {/* <FunctionalTimerTS /> */}
-     {/* <FunctTimer /> */}
+     <HttpReq />
+     <PostDataHttp/>
+     <ClassCounter />
+     <HookCounter />
+     <HookArray />
+     <ContextCompA/>
+     <ReducerCounter />
+     <ReducerCounterPro/>
+     <CallbackHook />
+     <MemoCounter />
+     <RefInput />
+     <ClassTimer />
+     <FunctionalTimer />
+     <FunctionalTimerTS />
+     <FunctTimer />
      <ParentComp />
     </div>
   );
